@@ -15,11 +15,11 @@ Performs self-tests to validate encryption and decryption functionality
 The code includes comments explaining each step of the RSA algorithm. Key functions include:
 
 is_prime(num): Checks if a number is prime
-<br/>generate_random_prime(lower, upper): Generates a random prime number within a range
+</br>generate_random_prime(lower, upper): Generates a random prime number within a range
 </br>(p, q, n, phi_n, e, d): Key generation functions
-(C, Decryption_M): Encryption and decryption functions
+</br>(C, Decryption_M): Encryption and decryption functions
 Dependencies
-This code uses the built-in Python libraries random and math.
+</br>This code uses the built-in Python libraries random and math.
 
 ## Contribution
 Feel free to contribute to this project by forking the repository and submitting pull requests with improvements or additional features.
